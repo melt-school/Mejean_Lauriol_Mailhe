@@ -17,6 +17,19 @@ Voici la répartions faite :
 - Mejean Oriane : "Ce que nous apprend la NASA" et "Les Observations réalisées sur les Piliers de la Créations"  
 
 ### * Les difficultés :
+Faire un projet pour la première fois et qui en plus se fait sur un sujet inconnue pour tout les membres du groupe a forcément engendrer des difficultés je vous propose de les voir en dessous avec les moyens que l'on a trouver pour les régler :  
+ 1. Le premier était GitHub car nous avons eux nos compte Shadow Ban par la platform...surement à cause d'une création de compte en masse le même jour...en tout cas nous avons finlalement reussit à trouver une solution. Cette solution était d'utiliser nos compte perso existant déjà sans utiliser le mail de notre école. La seul personne de notre groupe qui n'a pas été affecter est Mathis Lauriol...l'injustice.
+
+ 2. Nous avons également eux des difficultés à comprendre comment marcher la syntaxe de MediaWiki
+
+ 3. 
+
+ 4. 
+
+ 5. 
+
+ 6. 
+
 
 
 ### * Ce que ça nous a appris :

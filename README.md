@@ -20,7 +20,7 @@ Voici la répartions faite :
 Faire un projet pour la première fois et qui en plus se fait sur un sujet inconnue pour tout les membres du groupe a forcément engendrer des difficultés je vous propose de les voir en dessous avec les moyens que l'on a trouver pour les régler :  
  1. Le premier était GitHub car nous avons eux nos compte Shadow Ban par la platform...surement à cause d'une création de compte en masse le même jour...en tout cas nous avons finlalement reussit à trouver une solution. Cette solution était d'utiliser nos compte perso existant déjà sans utiliser le mail de notre école. La seul personne de notre groupe qui n'a pas été affecter est Mathis Lauriol...l'injustice.
 
- 2. Nous avons également eux des difficultés à comprendre comment marcher la syntaxe de MediaWiki
+ 2. Nous avons également eux des difficultés à comprendre comment marcher la syntaxe de MediaWiki car cetter la première fois que l'ont travailer dessus nous sommes donc aller sur le site officiel de MediaWiki pour essayer de comprendre la syntaxe. Malgrès ça nous avonc quand même eux des problèmes car certaine choses ne marcher pas sur GitHub natamment les images...plus précisément la redimensions et le centrage nous avons du trouver des solutions alternatifs. Pour les redimensionner nous sommes aller sur des sites fait pour et pour les centrers nous avons fait une sucession de ": " pour certain car le ": " permet d'avoir un petit décalage vers droite pour d'autres images le ": " ne marcher pas trop ou alors ça bugé un peu nous avons donc également utiliser "&nbsp ;&nbsp ;&nbsp ;&nbsp ;" qui est en réaliter une tabulation (sans les espaces avant le point virgules sinon cela ne marche pas).
 
  3. 
 

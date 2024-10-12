@@ -5,22 +5,20 @@ by Mejean Oriane, Lauriol Mathis et Mailhé Gustin
 &rarr; Nous n'avons pas encore fait de projet sur GitHub mise à part celui sur les piliers de la création que vous pouvez aller voir dans le wiki de ce même repository...nous avons également fait des projets hors GitHub
 
 ## Notre projet "Les piliers de la création"
-Ce projet a commencer le 8 octobre 2024 et à été finialiser le 13 octobre 2024. Nous sommes 3 à avoir participer à ce projet : Mailhé Gustin, Lauriol Mathis et enfin Mejean Oriane.  
-Nous avons eu un peu de mal a trouvé un projet qui nous intrèsserais tout les 3. Nous avons eux le problème que toujours au moins 1 personnes ne connaisser pas les sujets que nous choisissons... Nous sommes donc partie sur un sujet que aucun de nous 3 ne connaissée pour à la fois faire un repository mais également découvrir quelque choses.  
-Nous ne voulions pas que un membre du groupe se retrouve à l'écarts sur un sujets que seul lui ne connais pas.  
+Ce projet a commencé le 8 octobre 2024 et a été finialisé le 13 octobre 2024. Nous sommes 3 à avoir participer à ce projet : Mailhé Gustin, Lauriol Mathis et enfin Mejean Oriane.  
+Nous avons eu un peu de mal a trouver un projet qui nous intrèsserait tout les 3. Au fil de notre collaboration, un problème s'est présenté : à chaque proposition faite par l'un de nous, il y avait toujours au moins 1 personnes qui ne connaissait pas les sujets choisis. Nous sommes donc partie sur un sujet qu'aucun de nous ne connaissaient afin de faire un repository, découvrir quelque choses et pour éviter qu'un membre du groupe se sente mis à l'écart par la non connaissance d'un sujet.  
 
-### * La répartition :
-La répartition de se travail a été faite une fois que nous avions fait des recherche pour s'impregner du sujet choisit.
-Voici la répartions faite :  
+### * La répartion :
+Une fois que nous avions fait les recherches afin de s'imprégner du sujet choisit, la répartition du travail suivante a été faite :  
 - Mathis Lauriol : "Introduction" et "_________________"  
 - Gustin Mailhé : "Qu'est‐ce que les Piliers de la création ?"  
 - Mejean Oriane : "Ce que nous apprend la NASA" et "Les Observations réalisées sur les Piliers de la Créations"  
 
 ### * Les difficultés :
-Faire un projet pour la première fois et qui en plus se fait sur un sujet inconnue pour tout les membres du groupe a forcément engendrer des difficultés je vous propose de les voir en dessous avec les moyens que l'on a trouver pour les régler :  
- 1. Le premier était GitHub car nous avons eux nos compte Shadow Ban par la platform...surement à cause d'une création de compte en masse le même jour...en tout cas nous avons finlalement reussit à trouver une solution. Cette solution était d'utiliser nos compte perso existant déjà sans utiliser le mail de notre école. La seul personne de notre groupe qui n'a pas été affecter est Mathis Lauriol...l'injustice.
+Faire un projet pour la première fois et en plus sur un sujet inconnue a forcément engendré des difficultés. Je vous propose de détailler les moyens trouvés pour les régler :  
+ 1. Le premier était GitHub car nous avons eu nos comptes Shadow Ban par la platforme...sûrement à cause d'une création de compte massive le même jour...en tout cas nous avons finalement reussit à trouver une solution : utiliser nos comptes personnel déjà existant sans utiliser le mail de notre établissement. La seule personne de notre groupe qui n'a pas été affectée est Mathis Lauriol...l'injustice.
 
- 2. Nous avons également eux des difficultés à comprendre comment marcher la syntaxe de MediaWiki car cetter la première fois que l'ont travailer dessus nous sommes donc aller sur le site officiel de MediaWiki pour essayer de comprendre la syntaxe. Malgrès ça nous avonc quand même eux des problèmes car certaine choses ne marcher pas sur GitHub natamment les images...plus précisément la redimensions et le centrage nous avons du trouver des solutions alternatifs. Pour les redimensionner nous sommes aller sur des sites fait pour et pour les centrers nous avons fait une sucession de ": " pour certain car le ": " permet d'avoir un petit décalage vers droite pour d'autres images le ": " ne marcher pas trop ou alors ça bugé un peu nous avons donc également utiliser "&nbsp ;&nbsp ;&nbsp ;&nbsp ;" qui est en réaliter une tabulation (sans les espaces avant le point virgules sinon cela ne marche pas).
+ 2. Nous avons également eu des difficultés à comprendre comment fonctionner la syntaxe de MediaWiki car c'etait une grande découverte pour nous tous. Nous sommes donc aller sur le site officiel de MediaWiki pour essayer de comprendre la syntaxe. Malgrès cela nous avons quand même eux des problèmes car certaines choses ne marchaient pas sur GitHub notamment les images...plus précisément le redimensionnement et le centrage. Pour résoudre ces deux problèmes, nous avons dû trouver des solutions alternatives. Pour les redimensionner, nous sommes allés sur des sites spécialiseés pour cela et pour les centrages nous avons mis une sucession de ": " pour certain car il permet d'avoir un petit décalage vers la droite et pour d'autres,  le ": " ne fonctionnant pas ou peu ou déclanché un bug, nous avons également utilisé "&nbsp ;&nbsp ;&nbsp ;&nbsp ;" qui permet d'avoir une tabulation (sans les espaces avant le point virgules sinon cela ne marche pas).
 
  3. 
 
@@ -33,13 +31,13 @@ Faire un projet pour la première fois et qui en plus se fait sur un sujet incon
 
 
 ### * Ce que ça nous a appris :
-En choisissant un sujet que nous ne connaissions pas ça nous a permis d'en apprendre d'avantage sur les phénomènes ce passant dans l'espace, nous avons également appris de nouveau mots liéer à l'espace. Nos recherches pour le wiki nous ont beaucoup aidé sur cette apprentissage.  
+Un sujet inconnu nous a permis d'en apprendre d'avantage sur les phénomènes se déroulant dans l'espace. Nous avons également appris de nouveaux mots liés à l'espace. Nos recherches pour le wiki nous ont beaucoup aidés sur cette apprentissage.  
 Voilà ce que chaque membre du groupe a appris :  
 - Mathis Lauriol :
 
 - Gustin Mailhé :
 
-- Mejean Oriane : Je suis un grand fan de l'astromie et de l'espace avec ma soeur mais se projet ma permis d'en apprendre d'avantage et de le partager avec elle. Je ne connaissais absolument rien sur les Piliers de la Création, en réalité je ne savais même pas que cela exister et je suis content de pouvoir le partager à mon entourage. Pour ce qui est du langage "spatiale" j'ai appris ce que une nova signifier, j'ai également appris l'existance de la nebuleuse de l'Aigles et j'ai appris la forme de la constelation du serpant ce qui ma fait penser a une crosse de hockey au départ... 🥲
+- Mejean Oriane : Je suis un grand fan de l'astronomie et de l'espace au contact de ma soeur mais ce projet m'a permis d'en apprendre d'avantage et de le partager avec elle. les Piliers de la Création m'étaient totalement inconnu, j'en ignorait même l'existence. Je suis donc content de pouvoir le partager avec mon entourage. Concernant le langage "spatiale" j'ai appris ce qu'était une nova, j'ai également appris l'existance de la nébuleuse de l'Aigle ainsi que la forme de la constellation du serpent qui au départ, m'a fait penser à une crosse de hockey... 🥲
 
 ## Des projets hors GitHub
 &rarr; Nous avons notamment fais une distribution Linux que nous avons nommé "Unbutu". Cette distribution possède un logo ressemblant à une fleur de cerisier.  

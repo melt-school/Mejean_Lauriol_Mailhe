@@ -6,3 +6,4 @@ by Mejean Oriane, Lauriol Mathis et Mailhé Gustin
 
 
 ## Des projets hors Git Hub
+&rarr; Nous avons notamment fais une distribution Linux que nous avons nommé "Unbutu". Cette distribution possède un logo ressemblant à une fleur de cerisier.

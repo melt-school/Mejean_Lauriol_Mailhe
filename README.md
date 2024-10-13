@@ -23,7 +23,7 @@ Faire un projet pour la première fois et en plus sur un sujet inconnue a forcé
 ### * Ce que ça nous a appris :
 Un sujet inconnu nous a permis d'en apprendre d'avantage sur les phénomènes se déroulant dans l'espace. Nous avons également appris de nouveaux mots liés à l'espace. Nos recherches pour le wiki nous ont beaucoup aidés sur cette apprentissage.  
 Voilà ce que chaque membre du groupe a appris :  
-- Mathis Lauriol :
+- Mathis Lauriol : Github a été une révélation. Une pierre angulaire dans l'apprentissage de l'informatique, un tremplin vers ce qu'il ce fait de mieux dans ce domaine. Face à l'apparente complexité de github, je n'avais jamsi osé faire le grand saut, mais en apprenant à l'utiliser durant les TD, j'ai découvert la puissance et l'utilité de Github. J'ai très hâte d'en apprendre plus et de l'utiliser pour de réels projets ! en parlant de projet, cette idée des Piliers de la Création s'est révélée être vraiment intéréssante. C'est dans ces moments qu'on se rend compte que parler d'un sujet en essayant de l'expliquer est l'un des meilleurs moyen de s'instruire sur celui-ci.
 
 - Gustin Mailhé : J'ai fait beaucoup de projet de programmation, et ça fait longtemps que je connais GitHub mais je n'avais jamais appris, ni compris comment l'utiliser, ce projet m'as permis d'apprendre à utiliser cette outils indispensable pour travailler en équipe sur un même projet. De plus, j'ai agrendis ma culture général en étudiant ce que sont les Piliers de la Creation (ce qu'est une poussière interstellaire, commnet elle a été découverte, où elle se situe).
 

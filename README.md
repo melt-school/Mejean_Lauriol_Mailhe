@@ -10,7 +10,7 @@ Nous avons eu un peu de mal a trouver un projet qui nous intrèsserait tout les 
 
 ### * La répartition :
 Une fois que nous avions fait les recherches afin de s'imprégner du sujet choisit, la répartition du travail suivante a été faite :  
-- Mathis Lauriol : "Introduction" et "_________________"  
+- Mathis Lauriol : "Introduction" et "Qu'est-ce que la NASA ?"  
 - Gustin Mailhé : "Qu'est‐ce que les Piliers de la création ?"  et "Comment l'as-t-on découverte ?"
 - Mejean Oriane : "Ce que nous apprend la NASA" et "Les Observations réalisées sur les Piliers de la Créations"  
 

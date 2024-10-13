@@ -20,16 +20,6 @@ Faire un projet pour la première fois et en plus sur un sujet inconnue a forcé
 
  2. Nous avons également eu des difficultés à comprendre comment fonctionner la syntaxe de MediaWiki car c'etait une grande découverte pour nous tous. Nous sommes donc aller sur le site officiel de MediaWiki pour essayer de comprendre la syntaxe. Malgrès cela nous avons quand même eux des problèmes car certaines choses ne marchaient pas sur GitHub notamment les images...plus précisément le redimensionnement et le centrage. Pour résoudre ces deux problèmes, nous avons dû trouver des solutions alternatives. Pour les redimensionner, nous sommes allés sur des sites spécialiseés pour cela et pour les centrages nous avons mis une sucession de ": " pour certain car il permet d'avoir un petit décalage vers la droite et pour d'autres,  le ": " ne fonctionnant pas ou peu ou déclanché un bug, nous avons également utilisé "&nbsp ;&nbsp ;&nbsp ;&nbsp ;" qui permet d'avoir une tabulation (sans les espaces avant le point virgules sinon cela ne marche pas).
 
- 3. (d'autres difficultées si vous avez des idées)
-
- 4. 
-
- 5. 
-
- 6. 
-
-
-
 ### * Ce que ça nous a appris :
 Un sujet inconnu nous a permis d'en apprendre d'avantage sur les phénomènes se déroulant dans l'espace. Nous avons également appris de nouveaux mots liés à l'espace. Nos recherches pour le wiki nous ont beaucoup aidés sur cette apprentissage.  
 Voilà ce que chaque membre du groupe a appris :  

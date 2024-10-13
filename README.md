@@ -8,7 +8,7 @@ by Mejean Oriane, Lauriol Mathis et Mailhé Gustin
 Ce projet a commencé le 8 octobre 2024 et a été finialisé le 13 octobre 2024. Nous sommes 3 à avoir participer à ce projet : Mailhé Gustin, Lauriol Mathis et enfin Mejean Oriane.  
 Nous avons eu un peu de mal a trouver un projet qui nous intrèsserait tout les 3. Au fil de notre collaboration, un problème s'est présenté : à chaque proposition faite par l'un de nous, il y avait toujours au moins 1 personnes qui ne connaissait pas les sujets choisis. Nous sommes donc partie sur un sujet qu'aucun de nous ne connaissaient afin de faire un repository, découvrir quelque choses et pour éviter qu'un membre du groupe se sente mis à l'écart par la non connaissance d'un sujet.  
 
-### * La répartion :
+### * La répartition :
 Une fois que nous avions fait les recherches afin de s'imprégner du sujet choisit, la répartition du travail suivante a été faite :  
 - Mathis Lauriol : "Introduction" et "_________________"  
 - Gustin Mailhé : "Qu'est‐ce que les Piliers de la création ?"  et "Comment l'as-t-on découverte ?"
